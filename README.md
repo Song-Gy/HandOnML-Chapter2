@@ -44,7 +44,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_4_0.png)
+![png](Untitled_files/img1.png)
 
 
 
@@ -304,7 +304,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_26_0.png)
+![png](Untitled_files/img2.png)
 
 
 
@@ -321,12 +321,12 @@ precisoin_score(y_train_5, y_train_pred_90)
 
 
     ---------------------------------------------------------------------------
-
+    
     NameError                                 Traceback (most recent call last)
-
+    
     <ipython-input-41-e6350f9b44ad> in <module>
     ----> 1 precisoin_score(y_train_5, y_train_pred_90)
-    
+
 
     NameError: name 'precisoin_score' is not defined
 
@@ -351,7 +351,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_30_0.png)
+![png](Untitled_files/img3.png)
 
 
 
@@ -385,7 +385,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_33_0.png)
+![png](Untitled_files/img4.png)
 
 
 
@@ -512,12 +512,12 @@ y_probas_forest = cross_val_score(sgd_clf, X_train, y_train, cv = 3, method = "p
 
 
     ---------------------------------------------------------------------------
-
+    
     TypeError                                 Traceback (most recent call last)
-
+    
     <ipython-input-69-b3aeb7c2622c> in <module>
     ----> 1 y_probas_forest = cross_val_score(sgd_clf, X_train, y_train, cv = 3, method = "predict_proba")
-    
+
 
     ~/.pyenv/versions/3.8.1/lib/python3.8/site-packages/sklearn/utils/validation.py in inner_f(*args, **kwargs)
          70                           FutureWarning)
@@ -601,7 +601,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_48_0.png)
+![png](Untitled_files/img5.png)
 
 
 
@@ -618,7 +618,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_50_0.png)
+![png](Untitled_files/img6.png)
 
 
 
@@ -670,7 +670,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_52_0.png)
+![png](Untitled_files/img7.png)
 
 
 
