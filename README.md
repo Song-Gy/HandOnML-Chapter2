@@ -44,7 +44,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img1.png)
+=======
+![png](Untitled_files/Untitled_4_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
@@ -304,7 +308,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img2.png)
+=======
+![png](.Untitled_files/Untitled_26_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
@@ -321,12 +329,21 @@ precisoin_score(y_train_5, y_train_pred_90)
 
 
     ---------------------------------------------------------------------------
+<<<<<<< HEAD
     
     NameError                                 Traceback (most recent call last)
     
     <ipython-input-41-e6350f9b44ad> in <module>
     ----> 1 precisoin_score(y_train_5, y_train_pred_90)
 
+=======
+
+    NameError                                 Traceback (most recent call last)
+
+    <ipython-input-41-e6350f9b44ad> in <module>
+    ----> 1 precisoin_score(y_train_5, y_train_pred_90)
+    
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
     NameError: name 'precisoin_score' is not defined
 
@@ -351,7 +368,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img3.png)
+=======
+![png](Untitled_files/Untitled_30_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
@@ -385,7 +406,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img4.png)
+=======
+![png](Untitled_files/Untitled_33_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
@@ -512,12 +537,21 @@ y_probas_forest = cross_val_score(sgd_clf, X_train, y_train, cv = 3, method = "p
 
 
     ---------------------------------------------------------------------------
+<<<<<<< HEAD
     
     TypeError                                 Traceback (most recent call last)
     
     <ipython-input-69-b3aeb7c2622c> in <module>
     ----> 1 y_probas_forest = cross_val_score(sgd_clf, X_train, y_train, cv = 3, method = "predict_proba")
 
+=======
+
+    TypeError                                 Traceback (most recent call last)
+
+    <ipython-input-69-b3aeb7c2622c> in <module>
+    ----> 1 y_probas_forest = cross_val_score(sgd_clf, X_train, y_train, cv = 3, method = "predict_proba")
+    
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
     ~/.pyenv/versions/3.8.1/lib/python3.8/site-packages/sklearn/utils/validation.py in inner_f(*args, **kwargs)
          70                           FutureWarning)
@@ -601,7 +635,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img5.png)
+=======
+![png](Untitled_files/Untitled_48_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
@@ -618,7 +656,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img6.png)
+=======
+![png](Untitled_files/Untitled_50_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
@@ -670,7 +712,11 @@ plt.show()
 ```
 
 
+<<<<<<< HEAD
 ![png](Untitled_files/img7.png)
+=======
+![png](Untitled_files/Untitled_52_0.png)
+>>>>>>> 2678525c027d730fc10127fae56e135d755019df
 
 
 
