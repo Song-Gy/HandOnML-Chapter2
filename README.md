@@ -304,7 +304,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_26_0.png)
+![png](.Untitled_files/Untitled_26_0.png)
 
 
 
